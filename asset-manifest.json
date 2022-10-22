@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b79d5085.css",
+    "main.js": "/static/js/main.58b73b39.js",
+    "static/js/787.a26bef00.chunk.js": "/static/js/787.a26bef00.chunk.js",
+    "static/media/kakaopay.jpg": "/static/media/kakaopay.2050c995d08b20af7aae.jpg",
+    "static/media/paypal.jpg": "/static/media/paypal.92caa2bc4bcd293029b8.jpg",
+    "static/media/buymeacoffee.jpg": "/static/media/buymeacoffee.3cef3a4ea4ccee0ca9a9.jpg",
+    "index.html": "/index.html",
+    "main.b79d5085.css.map": "/static/css/main.b79d5085.css.map",
+    "main.58b73b39.js.map": "/static/js/main.58b73b39.js.map",
+    "787.a26bef00.chunk.js.map": "/static/js/787.a26bef00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79d5085.css",
+    "static/js/main.58b73b39.js"
+  ]
+}
